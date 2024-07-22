@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-contador-de-clicks-clase/static/css/main.b3df5d4d.css",
+    "main.js": "/React-contador-de-clicks-clase/static/js/main.fc28a68b.js",
+    "index.html": "/React-contador-de-clicks-clase/index.html",
+    "main.b3df5d4d.css.map": "/React-contador-de-clicks-clase/static/css/main.b3df5d4d.css.map",
+    "main.fc28a68b.js.map": "/React-contador-de-clicks-clase/static/js/main.fc28a68b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3df5d4d.css",
+    "static/js/main.fc28a68b.js"
+  ]
+}
