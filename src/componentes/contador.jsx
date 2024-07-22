@@ -1,10 +1,13 @@
 import React from 'react'
 import '../hojas-de-estilo/Contador.css'
 
-function Contador({ numeroDeclicks }) {
-  return (
-    <div className='contador'>{numeroDeclicks}</div>
-  )
+class Contador extends React.Component {
+  render() {
+    return (
+      <div className='contador'>{this.props.numeroDeclicks}</div>
+    )
+  }
 }
+
 
 export default Contador
